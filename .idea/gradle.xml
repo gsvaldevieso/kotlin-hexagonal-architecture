@@ -8,6 +8,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/driven" />
+            <option value="$PROJECT_DIR$/driver" />
           </set>
         </option>
       </GradleProjectSettings>
